@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vikvic.github.io/sitemap.xml

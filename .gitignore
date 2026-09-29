@@ -1,0 +1,18 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Never commit these
+.env
+*.pem
+
+# Working notes — local only, not part of the published site.
+# GitHub Pages would otherwise serve these at /README.md and /DEPLOY.md
+README.md
+DEPLOY.md
